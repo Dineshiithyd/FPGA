@@ -1,8 +1,10 @@
 Step follow here- 
 1. First we need to convert mp3/mp4 file into wav file through python code 
 2. Converted wav file we need to read data. So we install wavesurfer software and read data from wav file and save as .txt file.
-3. Now we recevied data run into the python code. We implement low pass, band pass filter and high pass filter. 
-       We get output file through this.
-4. Now recevied data (txt file) we convert them into wav file using python code.
-5.In last,We will see both file the extarcted one came form filter & Original .
+3. Now we recevied data run into the python code. 
+4.We have implemented low pass, band pass filter and high pass filter. we are getting   data of low ,high pass & band pass filter 
+through online . 
+5. Now recevied data (txt file) we convert them into wav file using python code.
+6.In last,We will see both file the extarcted one came form filter & Original .
+
 
