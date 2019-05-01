@@ -1,4 +1,4 @@
-Step follow here- 
+Step follow here(Report:https://github.com/Dineshiithyd/FPGA/blob/master/OscilloReport.pdf)- 
 1. First we need to convert mp3/mp4 file into wav file through python code 
 2. Converted wav file we need to read data. So we install wavesurfer software and read data from wav file and save as .txt file.
 3. Now we recevied data run into the python code. 
