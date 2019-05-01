@@ -6,5 +6,7 @@ Step follow here-
 through online . 
 5. Now recevied data (txt file) we convert them into wav file using python code.
 6.In last,We will see both file the extarcted one came form filter & Original .
-
+SOME IMPROVEMENTS:
+We	playback	the	Original	and	Filtered	data	by	using	pyAudio	library	of	python	and	analysed	how	the	generated	sound	will	
+change	when	we	apply appropriate	filter	to	it.
 
